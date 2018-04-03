@@ -1,0 +1,10 @@
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/bin/Debug/netcoreapp2.0/MAR.Api.deps.json
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/bin/Debug/netcoreapp2.0/MAR.Api.runtimeconfig.json
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/bin/Debug/netcoreapp2.0/MAR.Api.runtimeconfig.dev.json
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/bin/Debug/netcoreapp2.0/MAR.Api.dll
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/bin/Debug/netcoreapp2.0/MAR.Api.pdb
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/obj/Debug/netcoreapp2.0/MAR.Api.csproj.CoreCompileInputs.cache
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/obj/Debug/netcoreapp2.0/MAR.Api.AssemblyInfoInputs.cache
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/obj/Debug/netcoreapp2.0/MAR.Api.AssemblyInfo.cs
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/obj/Debug/netcoreapp2.0/MAR.Api.dll
+/Users/etuncay/Projects/MultipleApiRequest/MAR.Api/obj/Debug/netcoreapp2.0/MAR.Api.pdb
